@@ -69,7 +69,7 @@ if __name__ == "__main__":
     icon = input("""
 [FSOCIETY] ENTER THE ICON IMAGE FILE PATH (LOCAL FILE PATH)
                  
-┌──(root@DARK-4RMY)-[C2]
+┌──(root@MrRobot)-[C2]
 └─# """)
     
     build()    
