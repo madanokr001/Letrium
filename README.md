@@ -1,0 +1,47 @@
+# FSOCIETY C2 🔥
+![image](https://github.com/user-attachments/assets/8081bbde-8499-45c5-9f6b-5f1a97b86ddc)
+**A Discord BOT Remote Access Tool (RAT) for Windows
+Educational & Research Purpose Only**
+- **version 1.0 ✅**
+
+# FSOCIETY C2 🔥 - Helps
+```
+/fsociety sysinfo        - Collect system information
+/fsociety getip          - Get public IP address
+/fsociety shell          - Execute shell commands
+/fsociety startup        - Add program to startup
+/fsociety download       - Download a file from victim
+/fsociety upload         - Upload a file to victim
+/fsociety clipboard      - Get clipboard content
+/fsociety audio          - Convert text to speech
+/fsociety msgbox         - Show a message box
+/fsociety openweb        - Force open a website
+/fsociety process        - List running processes
+/fsociety processkill    - Kill a specific process
+/fsociety disabletaskmgr - Disable Task Manager
+/fsociety enabletaskmgr  - Enable Task Manager
+/fsociety wifi           - Extract saved Wi-Fi credentials
+/fsociety password       - Dump browser saved passwords
+/fsociety autofill       - Dump browser autofill data
+/fsociety history        - Extract browser history
+/fsociety screenshot     - Take a screenshot
+/fsociety webcam         - Capture a webcam image
+/fsociety wallpaper      - Change desktop wallpaper
+/fsociety bluescreen     - Trigger a Blue Screen of Death
+```
+
+# FSOCIETY C2 🔥 - Video
+https://github.com/user-attachments/assets/e3980eb5-0915-4853-9f76-0bb341a64d30
+
+
+# TUTORIAL ❓
+https://github.com/user-attachments/assets/41603348-14c8-4e3a-9d46-aa5049da21c5
+
+## WINDOWS ✅
+## LINUX ✅ 
+
+# About 🤑
+**We greatly appreciate your feedback and suggestions. Please feel free to share any thoughts you may have; your input is invaluable to us!**
+
+
+
