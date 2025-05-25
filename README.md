@@ -1,6 +1,6 @@
 # FSOCIETY C2 🔥
 ![image](https://github.com/user-attachments/assets/3a8d47db-78cf-478d-9b97-8516fe34c86d)
-**A Discord BOT Remote Access Tool (RAT) for Windows
+- **A Discord BOT Remote Access Tool (RAT) for Windows
 Educational & Research Purpose Only**
 - **version 1.0 ✅**
 
@@ -38,9 +38,12 @@ https://github.com/user-attachments/assets/e3980eb5-0915-4853-9f76-0bb341a64d30
 ```
 git clone https://github.com/madanokr001/FSOCIETY-C2.git
 ```
+```
 cd FSOCIETY-C2
 ```
+```
 ls
+```
 ```
 python fsociety.py
 ```
