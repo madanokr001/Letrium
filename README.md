@@ -35,6 +35,7 @@ https://github.com/user-attachments/assets/e3980eb5-0915-4853-9f76-0bb341a64d30
 
 
 # TUTORIAL ❓
+https://github.com/user-attachments/assets/41603348-14c8-4e3a-9d46-aa5049da21c5
 ```
 git clone https://github.com/madanokr001/FSOCIETY-C2.git
 ```
@@ -47,7 +48,6 @@ ls
 ```
 python fsociety.py
 ```
-https://github.com/user-attachments/assets/41603348-14c8-4e3a-9d46-aa5049da21c5
 
 
 ## WINDOWS ✅
