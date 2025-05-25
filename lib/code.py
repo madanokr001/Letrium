@@ -18,6 +18,7 @@ import webbrowser
 import locale
 import os
 import sqlite3
+import pyttsx3
 import shutil
 import win32crypt
 import discord
