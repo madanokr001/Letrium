@@ -3,6 +3,7 @@
 - **A Discord BOT Remote Access Tool (RAT) for Windows
 Educational & Research Purpose Only**
 - **version 1.0 ✅**
+- **V2 soon..**
 
 # FSOCIETY C2 🔥 - Helps
 ```
