@@ -1,4 +1,4 @@
-8# FSOCIETY C2 🔥
+# FSOCIETY C2 🔥
 ![image](https://github.com/user-attachments/assets/3a8d47db-78cf-478d-9b97-8516fe34c86d)
 - **A Discord BOT Remote Access Tool (RAT) for Windows
 Educational & Research Purpose Only**
