@@ -1,9 +1,10 @@
-# FSOCIETY C2 🔥
+8# FSOCIETY C2 🔥
 ![image](https://github.com/user-attachments/assets/3a8d47db-78cf-478d-9b97-8516fe34c86d)
 - **A Discord BOT Remote Access Tool (RAT) for Windows
 Educational & Research Purpose Only**
 - **version 1.0 ✅**
 - **V2 soon..**
+- **V2 Discord BOT -> Telegram BOT**
 
 # FSOCIETY C2 🔥 - Helps
 ```
