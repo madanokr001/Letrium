@@ -4,7 +4,6 @@
 Educational & Research Purpose Only**
 - **version 1.0 ✅**
 - **V2 soon..**
-- **V2 Discord BOT -> Telegram BOT**
 
 # FSOCIETY C2 🔥 - Helps
 ```
