@@ -22,7 +22,7 @@ import pyttsx3
 import shutil
 import win32crypt
 import discord
-from Cryptodome.Cipher import AES
+from Crypto.Cipher import AES 
 import json
 import base64
 import pyperclip
