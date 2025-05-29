@@ -5,6 +5,10 @@ Educational & Research Purpose Only**
 - **version 1.0 ✅**
 - **V2 soon..**
 
+# V2 sneak-peaks 👀
+![image](https://github.com/user-attachments/assets/17de3f07-42fc-4cff-aa40-2aac5b113b26)
+
+
 # FSOCIETY C2 🔥 - Helps
 ```
 /fsociety sysinfo        - Collect system information
