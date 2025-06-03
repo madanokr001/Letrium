@@ -29,7 +29,12 @@ Educational & Research Purpose Only**
 ```
 
 # Letriume - tutoriual ❓
+**step 1**
+```
+setting bot.py
+```
 https://github.com/user-attachments/assets/9b8ad40b-d454-4296-a232-5deabd5b0bc1
+**step 2**
 ```
 git clone https://github.com/madanokr001/Letriume.git
 ```
