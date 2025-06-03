@@ -29,7 +29,12 @@ Educational & Research Purpose Only**
 ```
 
 # Letriume - tutoriual ❓
-https://github.com/user-attachments/assets/45538993-ff02-46cf-9a62-9a1a234bd0b2
+
+
+https://github.com/user-attachments/assets/9b8ad40b-d454-4296-a232-5deabd5b0bc1
+
+
+
 ![image](https://github.com/user-attachments/assets/f11a1002-c14d-47d9-8550-44c5aa3de72a)
 ![image](https://github.com/user-attachments/assets/34f70a43-2dc1-4f46-9713-4640842285f8)
 ![image](https://github.com/user-attachments/assets/7739ecaf-1f6c-4671-b4af-16f383883aa0)
