@@ -31,6 +31,9 @@ Educational & Research Purpose Only**
 # Letriume - tutoriual ❓
 https://github.com/user-attachments/assets/9b8ad40b-d454-4296-a232-5deabd5b0bc1
 ```
+git clone https://github.com/madanokr001/Letriume.git
+```
+```
 pip install pystyle
 ```
 ```
