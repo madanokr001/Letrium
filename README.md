@@ -1,9 +1,9 @@
-# Letriume - Telegram RAT 🔮
+# Letrium - Telegram RAT 🔮
 ![image](https://github.com/user-attachments/assets/be4d1a0b-d0cb-4f8b-848f-73bde3d1909d)
 - **A Telegram BOT Remote Access Tool (RAT) for Windows
 Educational & Research Purpose Only**
 - **version 1.0 ✅**
-# Letriume - Helps 🔮
+# Letrium - Helps 🔮
 ```
 /start        - Start Letrium RAT
 /startup      - Add autostart
@@ -28,7 +28,7 @@ Educational & Research Purpose Only**
 /token        - Dump Discord tokens
 ```
 
-# Letriume - tutoriual ❓
+# Letrium - tutoriual ❓
 **step 1**
 
 https://github.com/user-attachments/assets/9b8ad40b-d454-4296-a232-5deabd5b0bc1
