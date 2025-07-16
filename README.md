@@ -3,6 +3,7 @@
 - **A Telegram BOT Remote Access Tool (RAT) for Windows
 Educational & Research Purpose Only**
 - **version 1.0 ✅**
+- **version 2.0 soon ✅**
 # Letrium - Helps 🔮
 ```
 /start        - Start Letrium RAT
