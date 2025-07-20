@@ -34,9 +34,7 @@ Educational & Research Purpose Only**
 ```
 
 # Letrium - tutoriual ❓
-```
-pip install -r requirements.txt
-```
+https://www.youtube.com/watch?v=zlyRFu9uw1M
 
 ## WINDOWS ✅
 
