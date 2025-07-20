@@ -30,7 +30,7 @@ Educational & Research Purpose Only**
 /password     - Dump browser passwords\n"
 /autofill     - Dump autofill data"
 /history      - Dump browser history"
-/roblox       - Dump Roblosecuriry cookie"
+/roblox       - Dump Roblox cookie"
 ```
 
 # Letrium - tutoriual ❓
