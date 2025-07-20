@@ -1,0 +1,11 @@
+browser_cookie3==0.20.1
+opencv_python==4.12.0.88
+Pillow==11.3.0
+psutil==7.0.0
+PyAudio==0.2.14
+pyautogui==0.9.54
+pycryptodomex==3.23.0
+pyTelegramBotAPI==4.27.0
+pyttsx3==2.99
+pywin32==311
+Requests==2.32.4
