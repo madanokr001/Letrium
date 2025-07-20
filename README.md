@@ -1,5 +1,5 @@
 # Letrium - Telegram RAT 🔮
-![image](https://github.com/user-attachments/assets/be4d1a0b-d0cb-4f8b-848f-73bde3d1909d)
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/4e3c9a56-9c76-42e0-8507-3196ad2c120c" />
 <img width="684" height="420" alt="image" src="https://github.com/user-attachments/assets/3d06b0f9-d58f-43c1-b7a2-d49598250e10" />
 
 - **A Telegram BOT Remote Access Tool (RAT) for Windows
