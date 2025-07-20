@@ -28,9 +28,9 @@ Educational & Research Purpose Only**
 /webcam       - Capture webcam image
 /recordmic    - Record microphone
 /password     - Dump browser passwords\n"
-/autofill     - Dump autofill data\n"
-/history      - Dump browser history\n"
-/roblox       - Dump Roblosecurity cookie\n\n"
+/autofill     - Dump autofill data"
+/history      - Dump browser history"
+/roblox       - Dump Roblosecuriry cookie"
 ```
 
 # Letrium - tutoriual ❓
