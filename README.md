@@ -27,7 +27,7 @@ Educational & Research Purpose Only**
 /screenshot   - Take a screenshot
 /webcam       - Capture webcam image
 /recordmic    - Record microphone
-/password     - Dump browser passwords\n"
+/password     - Dump browser passwords"
 /autofill     - Dump autofill data"
 /history      - Dump browser history"
 /roblox       - Dump Roblox cookie"
