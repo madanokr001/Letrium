@@ -6,6 +6,13 @@
 - **A Telegram BOT Remote Access Tool (RAT) for Windows
 Educational & Research Purpose Only**
 - **version 2.0 ✅**
+
+# Disclaimer 🚫
+
+**This project is created solely for educational and research purposes.  
+The developer does not promote or condone the use of this tool for unauthorized access, data theft, or any malicious activities.
+Using this software against systems you do not own or have explicit permission to test may be illegal and is strictly discouraged.**
+
 # Letrium - Helps 🔮
 ```
 /start        - Start Letrium RAT
